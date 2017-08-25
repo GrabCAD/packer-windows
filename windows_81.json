@@ -119,7 +119,8 @@
         "./scripts/vagrant-ssh.bat",
         "./scripts/disable-auto-logon.bat",
         "./scripts/enable-rdp.bat",
-        "./scripts/compile-dotnet-assemblies.bat"
+        "./scripts/compile-dotnet-assemblies.bat",
+        "./scripts/compact.bat"
       ]
     }
   ],
